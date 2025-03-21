@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 
 // Set target date here (YYYY-MM-DDTHH:MM:SS format)
-const targetDate = new Date("2025-12-31T23:59:59");
+const targetDate = new Date("2025-08-10T00:00:01");
 
 const calculateTimeLeft = () => {
   const now = new Date();
@@ -32,7 +32,7 @@ const App = () => {
   }, []);
 
   if (!timeLeft) {
-    return <h1 className="expired">🎉 Time's up! 🎉</h1>;
+    return <h1 className="expired">🎉 Playa Con Dios, Beaches!!! 🎉</h1>;
   }
 
   return (
