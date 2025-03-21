@@ -48,3 +48,30 @@ h1 {
   font-size: 2rem;
   color: #ff5252;
 }
+.links {
+  margin-top: 20px;
+}
+
+.links h2 {
+  font-size: 1.5rem;
+}
+
+.links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin: 10px 0;
+}
+
+.links a {
+  color: #61dafb;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
