@@ -1,7 +1,6 @@
 {
   "name": "countdown-app",
   "version": "1.0.0",
-  "description": "A countdown timer app",
   "main": "index.html",
   "scripts": {
     "dev": "vite",
@@ -17,6 +16,6 @@
     "vite": "^4.5.9"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "JW",
+  "license": "MIT"
 }
