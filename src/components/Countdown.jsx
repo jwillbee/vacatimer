@@ -36,7 +36,7 @@ const Countdown = ({ targetDate }) => {
 
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
-      <h1>Playa Con Dios, Beaches! 🎉</h1>
+      <h1>That's it - I'm out 🎉</h1>
       <div style={{ fontSize: "24px", marginTop: "20px" }}>
         {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
       </div>
