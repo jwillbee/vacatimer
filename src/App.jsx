@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       {/* Change this to your desired target date */}
-      <Countdown targetDate="2025-08-10T00:00:01" />
+      <Countdown targetDate="2025-08-10T16:00:00" />
       <div style={{ textAlign: "center", marginTop: "50px" }}>
         <a href="https://vbweather-mobile.vercel.app/" target="_blank" rel="noopener noreferrer">
           VB Weather - Virginia Beach's ONLY Multi-Source Weather Forecast System
